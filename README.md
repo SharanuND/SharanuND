@@ -1,3 +1,4 @@
-Software Engineer!!!
+I'm your ready to go Embedded Firmware Engineer, skilled in Embedded C + Firmware development on RTOS + Bare-metal programming!!!
 
-[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/sharanu.dibbadamani)
+Please view my all accounts here: 
+https://linktr.ee/sharanu.dibbadamani
