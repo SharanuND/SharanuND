@@ -1,4 +1,6 @@
-I'm your ready to go Embedded Firmware Engineer, skilled in Embedded C + Firmware development on RTOS + Bare-metal programming!!!
+Coder skilled in
+1. Embedded Firmware Development
+2. Full Stack Web-Development
 
 
 View my all accounts here: 
