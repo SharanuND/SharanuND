@@ -1,4 +1,4 @@
-Learning Math, trading and coding, skilled in 
+Learning Math and coding!!! + Skilled in 
 
 1. Embedded Firmware Development | RTOS | Bare-metal programming
 2. Full Stack-Web Development
