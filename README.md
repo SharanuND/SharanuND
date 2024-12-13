@@ -1,4 +1,4 @@
-Coder skilled in 
+Coder and learning Math, skilled in 
 
 1. Embedded Firmware Development | RTOS | Bare-metal programming
 2. Full Stack-Web Development
