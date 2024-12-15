@@ -1,7 +1,4 @@
-Learning Math and coding!!! + Skilled in 
-
-1. Embedded Firmware Development | RTOS | Bare-metal programming
-2. Full Stack-Web Development
+Embedded Firmware Development | RTOS | Bare-metal programming
 
 View my all accounts here: 
 https://linktr.ee/sharanu.dibbadamani
