@@ -1,6 +1,7 @@
-Embedded Firmware Developer | RTOS | Bare-metal
+Embedded Firmware Developer | C | RTOS | Bare-metal
 
-Programming language: C and Python + DSA
+learning : Python + DSA
+
 
 View my all accounts here: 
 https://linktr.ee/sharanu.dibbadamani
