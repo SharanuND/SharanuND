@@ -1,4 +1,4 @@
-Learning Math + Lifting weights + Writing code.
+Learning.
 
 View my all accounts here: 
 https://linktr.ee/sharanu.dibbadamani
