@@ -1,6 +1,4 @@
-Embedded Firmware Developer | C | RTOS | Bare-metal
-
-learning : Python + DSA
+Embedded Firmware Developer | C + DSA | RTOS | Bare-metal
 
 
 View my all accounts here: 
