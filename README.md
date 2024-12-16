@@ -1,6 +1,6 @@
-Learning.
+Embedded Firmware Developer | RTOS | Bare-metal
 
-Prosfession: Embedded Firmware Developer
+Programming language: C and Python + DSA
 
 View my all accounts here: 
 https://linktr.ee/sharanu.dibbadamani
