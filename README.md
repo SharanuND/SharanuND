@@ -1,4 +1,4 @@
-Embedded Firmware Developer | RTOS | Bare-metal | C + DSA 
+Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + DSA 
 
 
 View my all accounts here: 
