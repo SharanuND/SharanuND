@@ -1,4 +1,4 @@
-Professionally working as Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + DSA 
+Professional Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + DSA 
 
 
 View my all accounts here: 
