@@ -1,4 +1,4 @@
-Professional Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + DSA 
+Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + DSA | Automation Testing
 
 
 View my all accounts here: 
