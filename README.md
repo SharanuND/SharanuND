@@ -1,4 +1,4 @@
-Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + DSA | Automation Testing + Python
+Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + Python + DSA | Automation Testing
 
 
 View my all accounts here: 
