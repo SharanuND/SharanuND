@@ -12,4 +12,4 @@ https://linktr.ee/sharanu.dibbadamani
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharanuND&layout=compact&theme=radical)
 
-![SharanuND's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SharanuND&theme=radical)
+![SharanuND's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanuND&theme=radical)
