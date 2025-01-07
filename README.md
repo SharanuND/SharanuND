@@ -8,8 +8,6 @@ https://linktr.ee/sharanu.dibbadamani
 
 ![SharanuND's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharanuND&show_icons=true&theme=radical&count_private=true)
 
-![SharanuND's GitHub Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharanuND&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharanuND&layout=compact&theme=radical&hide=html,css,javascript)
 
 ![SharanuND's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanuND&theme=radical)
