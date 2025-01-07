@@ -1,6 +1,6 @@
 Embedded Firmware Developer | RTOS | Bare-metal | Embedded C + CPP + DSA + Math | Automation Testing
 
-[My LinkTree](https://linktr.ee/sharanu.dibbadamani).
+[Click here to view my accounts](https://linktr.ee/sharanu.dibbadamani)
 
 
 # SharanuND's GitHub Profile
