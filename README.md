@@ -9,7 +9,7 @@ Embedded Firmware Developer | RTOS + Bare-metal | Embedded C + CPP + DSA + Math 
       <img src="https://github-readme-stats.vercel.app/api?username=SharanuND&show_icons=true&theme=radical&count_private=true&hide_rank=true" alt="SharanuND's GitHub Stats" width="400" height="150" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanuND&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="400" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanuND&layout=compact&theme=radical&cache_seconds=86400&langs_count=5" alt="Top Languages" width="400" height="150" />
     </td>
   </tr>
 </table>
