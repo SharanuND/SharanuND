@@ -20,8 +20,8 @@ Embedded Firmware Developer | RTOS + Bare-metal | Embedded C + CPP + DSA + Math 
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharanund&show_icons=true&locale=en&card_width=300" alt="sharanund" style="width: 300px;" />
     </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharanund&show_icons=true&locale=en&layout=compact&card_width=300" alt="sharanund" style="width: 290px;" />
+<!--     <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharanund&show_icons=true&locale=en&layout=compact&card_width=300" alt="sharanund" style="width: 290px;" /> -->
     </td>
   </tr>
 </table>
