@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanund&label=Profile%20views&color=0e75b6&style=flat" alt="sharanund" /> </p>
-Embedded Firmware Developer | RTOS + Bare-metal | Embedded C + CPP + DSA + Math | Automation Testing
+Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing
 
 [Click here to view my accounts](https://linktr.ee/sharanu.dibbadamani)
 <hr>
