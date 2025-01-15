@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanund&label=Profile%20views&color=0e75b6&style=flat" alt="sharanund" /> </p>
+<hr>
 Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing
-
+<hr>
 [Click here to view my accounts](https://linktr.ee/sharanu.dibbadamani)
 <hr>
 
