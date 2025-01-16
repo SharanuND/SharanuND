@@ -1,6 +1,23 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanund&label=Profile%20views&color=0e75b6&style=flat" alt="sharanund" /> </p>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=sharanund&label=Profile%20views&color=0e75b6&style=flat" alt="sharanund" />
+      </p>
+    </td>
+    <td>
+      <a href="https://sharanund.github.io/Folio/index.html" target="_blank">
+        <img src="https://img.shields.io/badge/My--portfolio-Visit-blue?style=flat" alt="Portfolio Link"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <hr>
 <h4 align="left">Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing</h4>
+
 
 
 <hr>
@@ -42,7 +59,3 @@
 <br>
 
 [Click here to view my accounts](https://linktr.ee/sharanu.dibbadamani)
-
-<hr>
-
-[My Portfolio](https://sharanund.github.io/Folio/index.html)   
