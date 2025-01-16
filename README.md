@@ -3,7 +3,6 @@
 <h4 align="left">Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing</h4>
 
 
-[Click here to view my accounts](https://linktr.ee/sharanu.dibbadamani)
 <hr>
 
 
@@ -41,4 +40,8 @@
 <a href="https://www.youtube.com/c/sharanudibbadamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharanudibbadamani" height="30" width="40" /></a>
 <a href="https://x.com/SDibbadamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SDibbadamani" height="30" width="40" /></a>
 </p>
+
+<br>
+
+[Click here to view my accounts](https://linktr.ee/sharanu.dibbadamani)
 
