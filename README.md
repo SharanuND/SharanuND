@@ -30,7 +30,7 @@ Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanund" alt="sharanund" /></a> </p>
 
-<h3 align="left">Dev Profiles:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://dev.to/sharanund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharanund" height="30" width="40" /></a>
 <a href="https://twitter.com/sdibbadamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdibbadamani" height="30" width="40" /></a>
