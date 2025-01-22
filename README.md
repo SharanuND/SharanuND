@@ -1,7 +1,7 @@
 
 
 
-<h4 align="left">Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing | C and Python</h4>
+<h4 align="left">Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing</h4>
 
 
 
