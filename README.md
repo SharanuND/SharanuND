@@ -62,4 +62,4 @@
 </table>
 
 
-![SharanuND's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanuND&theme=react-dark&area=true&hide_border=true)
+![SharanuND's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanuND&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)
