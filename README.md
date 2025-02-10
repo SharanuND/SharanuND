@@ -1,7 +1,7 @@
 
 
 
-<h4 align="left">Embedded Firmware Developer | RTOS + Bare-metal | Automation Testing | Embedded C + Python + DSA</h4>
+<h4 align="left">Into Learning and WiP</h4>
 
 
 
