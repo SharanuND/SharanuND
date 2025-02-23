@@ -1,1 +1,1 @@
-Every PRO was once a beginner!!!
+Every pro was once a beginner!!!
