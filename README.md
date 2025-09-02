@@ -63,19 +63,26 @@
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with me  
 
-<p align="left">
-  <a href="https://sharanund.github.io/Folio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sharanu-dibbadamani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Sharanu2001/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<a href="https://sharanund.github.io/Folio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%239000d3.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sharanu-dibbadamani/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Sharanu2001/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/sharanu2001" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="https://dev.to/sharanund" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+<a href="https://x.com/SDibbadamani" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter(X)-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 
 
