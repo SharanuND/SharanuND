@@ -52,13 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharanuND&theme=dark" alt="GitHub Streak" />
 </p>
 
----
-
-### 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharanuND&theme=github-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
 
 
 ---
