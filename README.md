@@ -1,6 +1,6 @@
 # Hi, I'm Sharanu N Dibbadamani  
 
-**Embedded Firmware Developer**
+### Embedded Firmware Developer
 
 ---
 
