@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Sharanu Dibbadamani  
+# Hi, I'm Sharanu N Dibbadamani  
 
-🚀 **Embedded Firmware Developer | IoT Enthusiast | Cloud Integrator**
+**Embedded Firmware Developer**
 
 ---
 
 ### 💡 About Me  
-- 🛠️ 3+ years of experience in **Embedded Systems Development**  
+- 🛠️ 3+ years of experience in **Embedded Firmware Development**  
 - 🔌 Worked extensively on **wired & wireless communication protocols** (UART, I2C, SPI, BLE, MQTT)  
 - ⚙️ Skilled in **RTOS, Bare-metal programming, and low-level driver development**  
 - ☁️ Integrated **IoT solutions with AWS Cloud** for data management and analytics  
@@ -13,19 +13,31 @@
 
 ---
 
-### 🧰 Tech Stack  
+### 🛠️ Skills  
 
-**Programming & Firmware**  
-`C` `Embedded C` `C++` `Python`  
+**Programming**  
+`Embedded C`  
 
-**Platforms & Frameworks**  
-`ESP32` `STM32` `FreeRTOS` `Bare-metal` `NimBLE`  
+**Firmware Development**  
+`RTOS (FreeRTOS)` `Bare-metal`  
 
-**Protocols & Connectivity**  
-`UART` `I2C` `SPI` `BLE` `MQTT` `TCP/IP`  
+**Debugging Tools**  
+`UART` `JTAG` `SWD` `GDB` `Logic Analyzer` `Oscilloscope`  
 
-**Cloud & Tools**  
-`AWS IoT` `Git/GitHub` `VS Code` `Linux` `Docker`  
+**Development Tools**  
+`VS Code` `Jira` `Git` `GitHub` `BitBucket` `GitLab` `SourceTree` `Bugzilla` `TestLink`  
+
+**Embedded Protocols**  
+`UART` `USB` `SPI` `I2C` `ADC` `GPIO` `CAN` `Wi-Fi` `HTTP` `MQTT` `Bluetooth (BLE)` `DMA` `Timers`  
+
+**Other Skills**  
+`Agile Methodologies` `CI-CD` `Cross-platform Development` `Hardware/Software Integration`  
+`Technical Documentation` `MS-Excel`  
+
+**Embedded Platforms**  
+`STM32G0B0CET6` `STM32F411RETx` `STM32F407G-DISC1` `STM32F446RE`  
+`NeowayN58` `NXP KL03` `NXP KW36` `ESP32` `ESP32-C3` `ESP32-S3`  
+
 
 ---
 
