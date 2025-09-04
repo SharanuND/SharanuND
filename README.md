@@ -28,10 +28,10 @@
 `VS Code` `Jira` `Git` `GitHub` `BitBucket` `GitLab` `SourceTree` `Bugzilla` `TestLink`  
 
 **Embedded Protocols**  
-`UART` `USB` `SPI` `I2C` `ADC` `GPIO` `CAN` `Wi-Fi` `HTTP` `MQTT` `BLE` `DMA` `Timers`  
+`UART` `USB` `SPI` `I2C` `ADC` `GPIO` `Wi-Fi` `HTTP` `MQTT` `BLE`
 
 **Other Skills**  
-`Agile Methodologies` `CI-CD` `Cross-platform Development` `Hardware/Software Integration`  
+`CI-CD` `Cross-platform Development` `Hardware/Software Integration`  
 `Technical Documentation` `MS-Excel`  
 
 **Embedded Platforms**  
