@@ -22,21 +22,20 @@
 `RTOS (FreeRTOS)` `Bare-metal`  
 
 **Debugging Tools**  
-`UART` `JTAG` `SWD` `GDB` `Logic Analyzer` `Oscilloscope`  
+`UART` `JTAG` `GDB` `Logic Analyzer` `Oscilloscope`  
 
 **Development Tools**  
 `VS Code` `Jira` `Git` `GitHub` `BitBucket` `GitLab` `SourceTree` `Bugzilla` `TestLink`  
 
 **Embedded Protocols**  
-`UART` `USB` `SPI` `I2C` `ADC` `GPIO` `Wi-Fi` `HTTP` `MQTT` `BLE`
+`UART` `SPI` `I2C` `ADC` `GPIO` `MQTT` `BLE`
 
 **Other Skills**  
 `CI-CD` `Cross-platform Development` `Hardware/Software Integration`  
 `Technical Documentation` `MS-Excel`  
 
 **Embedded Platforms**  
-`STM32G0B0CET6` `STM32F411RETx` `STM32F407G-DISC1` `STM32F446RE`  
-`NeowayN58` `NXP KL03` `NXP KW36` `ESP32` `ESP32-C3` `ESP32-S3`  
+`STM32` `ESP32` `NeowayN58`
 
 
 ---
