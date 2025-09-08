@@ -25,7 +25,8 @@
 `UART` `JTAG` `GDB` `Logic Analyzer` `Oscilloscope`  
 
 **Development Tools**  
-`VS Code` `Jira` `Git` `GitHub` `BitBucket` `GitLab` `SourceTree` `Bugzilla` `TestLink`  
+`VS Code` `Jira` `Git` `GitHub` `BitBucket`
+`GitLab` `SourceTree` `Bugzilla` `TestLink`  
 
 **Embedded Protocols**  
 `UART` `SPI` `I2C` `ADC` `GPIO` `MQTT` `BLE`
