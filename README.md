@@ -7,8 +7,7 @@
 ### 💡 About Me  
 - 🛠️ 3+ years of experience in **Embedded Firmware Development**  
 - 🔌 Worked extensively on **wired & wireless communication protocols** (UART, I2C, SPI, BLE, MQTT)  
-- ⚙️ Skilled in **RTOS, Bare-metal programming, and low-level driver development**  
-- ☁️ Integrated **IoT solutions with AWS Cloud** for data management and analytics  
+- ⚙️ Skilled in **RTOS and Bare-metal programming**  
 - 💻 Passionate about building scalable, efficient, and reliable **IoT and embedded solutions**  
 
 ---
@@ -29,7 +28,7 @@
 `GitLab` `SourceTree` `Bugzilla` `TestLink`  
 
 **Embedded Protocols**  
-`UART` `SPI` `I2C` `ADC` `GPIO` `MQTT` `BLE`
+`UART` `SPI` `I2C` `GPIO` `MQTT` `BLE`
 
 **Other Skills**  
 `CI-CD` `Cross-platform Development` `Hardware/Software Integration`  
