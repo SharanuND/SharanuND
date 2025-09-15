@@ -28,7 +28,7 @@
 `GitLab` `SourceTree` `Bugzilla` `TestLink`  
 
 **Embedded Protocols**  
-`UART` `SPI` `I2C` `GPIO` `MQTT` `BLE`
+`UART` `SPI` `I2C` `GPIO` `MQTT` `BLE` `CAN` `OBD`
 
 **Other Skills**  
 `CI-CD` `Cross-platform Development` `Hardware/Software Integration`  
