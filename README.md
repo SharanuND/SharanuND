@@ -6,8 +6,8 @@
 
 ### 💡 About Me  
 - 🛠️ 3+ years of experience in **Embedded Firmware Development**  
-- 🔌 Worked extensively on **wired & wireless communication protocols** (UART, I2C, SPI, BLE, MQTT)  
-- ⚙️ Skilled in **RTOS and Bare-metal programming**  
+- 🔌 Worked extensively on **wired & wireless communication protocols** (UART, I2C, SPI, BLE)  
+- ⚙️ Skilled in **FreeRTOS and Bare-metal programming**  
 - 💻 Passionate about building scalable, efficient, and reliable **IoT and embedded solutions**  
 
 ---
@@ -28,14 +28,14 @@
 `GitLab` `SourceTree` `Bugzilla` `TestLink`  
 
 **Embedded Protocols**  
-`UART` `SPI` `I2C` `GPIO` `MQTT` `BLE` `CAN` `OBD`
+`UART` `SPI` `I2C` `BLE`
 
 **Other Skills**  
 `CI-CD` `Cross-platform Development` `Hardware/Software Integration`  
 `Technical Documentation` `MS-Excel`  
 
 **Embedded Platforms**  
-`STM32` `ESP32` `NeowayN58`
+`STM32` `ESP32` `NeowayN58` `NXP KW36`
 
 
 ---
