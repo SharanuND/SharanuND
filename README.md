@@ -5,7 +5,7 @@
 ---
 
 ### 💡 About Me  
-- 🛠️ 3+ years of experience in **Embedded Firmware Development**  
+- 🛠️ 3+ years of experience in **Embedded Firmware/Software Development**  
 - 🔌 Worked extensively on **wired & wireless communication protocols** (UART, I2C, SPI, BLE)  
 - ⚙️ Skilled in **FreeRTOS and Bare-metal programming**  
 - 💻 Passionate about building scalable, efficient, and reliable **IoT and embedded solutions**  
