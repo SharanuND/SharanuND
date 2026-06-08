@@ -12,7 +12,7 @@ Building reliable embedded systems, wireless communication solutions, and IoT pr
 
 ## 🚀 About Me
 
-- 💼 Embedded Firmware Developer with 2+ years of industry experience
+- 💼 Embedded Firmware Developer with 3+ years of industry experience
 - 🔧 Experienced in Embedded C/C++, Python, RTOS and Bare-metal firmware development
 - 📡 Working with BLE, Classic Bluetooth, MQTT and CAN communication
 - ⚙️ Hands-on experience with ESP32, STM32, NXP S32K3XX and Infineon CYBT modules
