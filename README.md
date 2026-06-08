@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharanu N Dibbadamani</h1>
 
 <h3 align="center">
-Embedded Firmware Developer | IoT Engineer | Bluetooth Enthusiast
+Embedded Firmware Developer | Mobile App | Web dev
 </h3>
 
 <p align="center">
