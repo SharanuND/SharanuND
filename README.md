@@ -1,116 +1,233 @@
 <h1 align="center">Hi 👋, I'm Sharanu N Dibbadamani</h1>
 
 <h3 align="center">
-Software Engineer | Firmware | Mobile App(Android & IOS) | Websites | Desktop apps
+Embedded Firmware Engineer | C | C++ | Python | Rust | RTOS | Embedded Systems
 </h3>
 
 <p align="center">
-Building reliable embedded systems, wireless communication solutions, and IoT products.
+Expertise in designing, developing, debugging, and optimizing production-grade embedded firmware and connected devices.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Embedded Firmware Developer with 3+ years of industry experience
-- 🔧 Experienced in Embedded C/C++, Python, RTOS and Bare-metal firmware development
-- 📡 Working with BLE, Classic Bluetooth, MQTT and CAN communication
-- ⚙️ Hands-on experience with ESP32, STM32, NXP S32K3XX and Infineon CYBT modules
-- 🚗 Contributed to Bluetooth features for Royal Enfield Flying Flea C6
-- 🌱 Currently exploring Automotive Software, Embedded Linux and Advanced Bluetooth Architectures
-- 🎯 Passionate about transforming hardware concepts into production-ready products
+* 💼 **Embedded Firmware Developer with 3+ years of industry experience**
+* 🧠 Specialized in **Firmware Development, Embedded Systems, and Low-Level Software**
+* ⚡ Primary programming language: **C**, with strong experience in **C++, Python, and Rust**
+* 🔧 Experienced in **Bare-Metal, RTOS, device drivers, firmware architecture, and hardware-software integration**
+* 📡 Hands-on experience with **BLE, Bluetooth Classic, CAN, UART, SPI, I2C, USB, MQTT, and Wi-Fi**
+* ⚙️ Worked with **ESP32, STM32, NXP S32K3XX, and Infineon CYBT modules**
+* 🚗 Contributed to **Bluetooth Lock/Unlock functionality for the Royal Enfield Flying Flea C6**
+* 🧩 Experienced in developing firmware according to **software requirements and hardware specifications**
+* 🐛 Strong focus on **debugging, memory optimization, performance analysis, and reliability**
+* 🌱 Currently exploring **Automotive Software, Embedded Linux, Rust for Embedded Systems, and Advanced Bluetooth Architectures**
+* 🎯 Passionate about building **reliable, efficient, scalable, and production-ready firmware**
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Firmware Development Expertise
 
-### Programming Languages
+My primary area of expertise is **Embedded Firmware Development**, with a strong focus on low-level programming and hardware interaction.
+
+### Core Expertise
+
+* Embedded Firmware Architecture
+* Embedded C / C++
+* Rust for Embedded Systems
+* Bare-Metal Firmware Development
+* RTOS-based Firmware Development
+* FreeRTOS
+* Device Driver Development
+* Hardware Abstraction Layers (HAL)
+* Interrupt Service Routines (ISR)
+* DMA
+* Timers & PWM
+* GPIO
+* ADC
+* Memory Management
+* Flash / EEPROM
+* Bootloaders & Firmware Updates
+* Firmware Optimization
+* Multithreading & Synchronization
+* Inter-Task Communication
+* Hardware-Software Debugging
+* Code Profiling & Performance Optimization
+* Production Firmware Development
+
+---
+
+## 💻 Programming Languages
+
+### Primary Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust" />
 </p>
 
-### Embedded Firmware
-
-- Bare-Metal Programming
-- FreeRTOS
-- Embedded System Design
-- Device Drivers
-- Firmware Architecture
-- Memory Optimization
-- Debugging & Performance Analysis
-
-### Communication Protocols
-
-- UART / USART
-- SPI
-- I2C
-- I2S
-- USB
-- BLE
-- Bluetooth Classic
-- MQTT
-- CAN
-
-### Microcontrollers & Modules
-
-- ESP32 Series
-- STM32 Series
-- NXP S32K3XX
-- Infineon CYBT-413061-02
-
-### Development Tools
-
-- Git
-- GitHub
-- VS Code
-- STM32CubeIDE
-- ESP-IDF
-- J-Link
-- Logic Analyzer
-- Wireshark
-- Bluetooth Sniffer
+| Language   | Focus                                                        |
+| ---------- | ------------------------------------------------------------ |
+| **C**      | ⭐ Primary language for embedded firmware development         |
+| **C++**    | Embedded systems, application architecture, OOP              |
+| **Python** | Automation, testing, tools, scripting, BLE/MQTT applications |
+| **Rust**   | Embedded systems, memory safety, systems programming         |
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ Embedded Platforms & Microcontrollers
+
+* **STM32**
+* **ESP32 / ESP32-S3 / ESP32-C3**
+* **NXP S32K3XX**
+* **Infineon CYBT-413061-02**
+* NXP KW36
+* Neoway N58
+
+---
+
+## 📡 Communication Protocols & Connectivity
+
+### Embedded Communication
+
+* UART / USART
+* SPI
+* I2C
+* I2S
+* USB
+* CAN
+* RS422
+* RS485
+* J1939
+* OBD
+
+### Wireless & IoT
+
+* BLE
+* Bluetooth Classic
+* Wi-Fi
+* MQTT
+* AWS IoT Core
+
+---
+
+## 🧵 RTOS & Embedded Software
+
+* **FreeRTOS**
+* Zephyr RTOS
+* Bare-Metal Programming
+* Task Management
+* Queues
+* Semaphores
+* Mutexes
+* Event Groups
+* Software Timers
+* Interrupt Handling
+* Inter-Task Communication
+* Concurrency & Synchronization
+
+---
+
+## 🛠️ Development Tools
+
+* Git / GitHub
+* VS Code
+* STM32CubeIDE
+* ESP-IDF
+* NXP S32 Design Studio
+* ModusToolbox
+* Keil uVision
+* MCUXpresso
+* J-Link / SEGGER
+* Wireshark
+* Bluetooth Sniffer
+* Logic Analyzer
+* PCAN View
+* SavvyCAN
+* Jira
+
+---
+
+## 📌 Featured Firmware Projects
 
 ### 🚗 Royal Enfield Flying Flea C6
 
-- Implemented BLE-based Lock/Unlock functionality
-- Developed on Infineon CYBT-413061-02
-- Successfully deployed in production vehicle launched in 2026
+**Automotive Bluetooth Firmware**
 
-### 📡 BLE + MQTT Controller
-
-- Python-based BLE controller
-- BluePy integration
-- MQTT communication framework
-- Device scanning, connection management and data transfer
-
-### 🎮 IoT Gaming Machine Gateway
-
-- STM32 UART integration
-- ESP32-S3 communication gateway
-- BLE-based mobile application interface
-
-### 🥄 Spoonified Smart Spoon
-
-- Designed UART command architecture
-- ESP32 firmware development
-- BLE communication with mobile application
-
-### 🚘 Automotive CAN Development
-
-- CAN Communication
-- DBC File Analysis
-- Signal Decoding & Validation
-
-
+* Implemented **BLE-based Lock / Unlock functionality**
+* Developed firmware using **Infineon CYBT-413061-02**
+* Worked on Bluetooth communication and application-level firmware
+* Integrated embedded software with automotive requirements
+* Successfully deployed in a **production vehicle launched in 2026**
 
 ---
 
-## ⚡ GitHub Streak
+### 📡 BLE + MQTT Controller
+
+**Python-based IoT Communication Framework**
+
+* Developed a Python-based BLE controller
+* BLE device discovery and connection management
+* Implemented data transfer between BLE devices
+* Integrated **MQTT communication**
+* Developed device control and communication logic
+
+---
+
+### 🎮 IoT Gaming Machine Gateway
+
+**STM32 + ESP32-S3 + BLE**
+
+* Developed UART communication between gaming machine and STM32
+* Implemented communication gateway using **ESP32-S3**
+* Integrated BLE communication
+* Designed firmware communication architecture
+* Enabled mobile application interaction with the embedded device
+
+---
+
+### 🥄 Spoonified Smart Spoon
+
+**ESP32 Embedded Firmware**
+
+* Designed UART command architecture
+* Developed ESP32 firmware
+* Implemented BLE communication
+* Integrated firmware with mobile application
+* Developed device provisioning and communication functionality
+
+---
+
+### 🚘 Automotive CAN Development
+
+**CAN / Automotive Firmware**
+
+* CAN communication implementation
+* DBC file analysis
+* CAN signal decoding
+* Signal validation
+* Automotive communication debugging
+* Firmware-level CAN integration
+
+---
+
+## 🔥 What I Work On
+
+```c
+while (1)
+{
+    Develop_Firmware();
+    Debug_Hardware();
+    Optimize_Code();
+    Test_Communication();
+    Analyze_Memory();
+    Improve_Performance();
+    Push_To_GitHub();
+}
+```
+
+---
+
+## 📊 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SharanuND&theme=tokyonight" />
@@ -126,31 +243,34 @@ Building reliable embedded systems, wireless communication solutions, and IoT pr
 
 ---
 
-## 💻 What I Work On
+## 🎯 Current Focus
 
-```c
-while(1)
-{
-    Develop_Firmware();
-    Debug_Hardware();
-    Optimize_Code();
-    Test_Bluetooth();
-    Push_To_GitHub();
-}
+```text
+Embedded Firmware
+        │
+        ├── C / C++
+        ├── Rust
+        ├── FreeRTOS / Zephyr
+        ├── Embedded Linux
+        ├── Automotive Software
+        ├── Bluetooth / BLE
+        ├── CAN
+        └── IoT & Connected Devices
 ```
 
+I am continuously improving my expertise in **low-level systems programming, embedded Linux, automotive software, wireless communication, and Rust-based embedded development**.
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 **Email:**  
-work.sharanu@gmail.com
+📧 **Email:**
+[work.sharanu@gmail.com](mailto:work.sharanu@gmail.com)
 
-💼 **LinkedIn:**  
+💼 **LinkedIn:**
 https://www.linkedin.com/in/sharanu-dibbadamani/
 
-🐙 **GitHub:**  
+🐙 **GitHub:**
 https://github.com/SharanuND
 
 ---
