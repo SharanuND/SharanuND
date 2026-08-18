@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharanu N Dibbadamani</h1>
 
 <h3 align="center">
-Embedded Firmware Engineer | C | C++ | Python | Rust | RTOS | Embedded Systems
+Embedded Firmware Engineer | C | C++ | Python | RTOS | Embedded Systems
 </h3>
 
 <p align="center">
