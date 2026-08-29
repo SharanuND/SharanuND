@@ -5,7 +5,7 @@ Embedded Systems | Firmware | C | C++ | RUST | Python | IoT | BLE/Bluetooth
 </h3>
 
 <p align="center">
-Expertise in designing, developing, debugging, improvement and optimizing production-grade embedded firmware and connected devices.
+Expertise in designing, developing, debugging and optimizing production-grade embedded firmware and connected devices.
 </p>
 
 ---
