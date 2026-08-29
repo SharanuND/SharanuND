@@ -34,9 +34,6 @@ Expertise in designing, developing, debugging, improvement and optimizing produc
 💼 **LinkedIn:**
 https://www.linkedin.com/in/sharanu-dibbadamani/
 
-🐙 **GitHub:**
-https://github.com/SharanuND
-
 ---
 
 <p align="center">
