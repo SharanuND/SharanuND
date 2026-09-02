@@ -33,9 +33,3 @@ Expertise in designing, developing, debugging and optimizing production-grade em
 
 💼 **LinkedIn:**
 https://www.linkedin.com/in/sharanu-dibbadamani/
-
----
-
-<p align="center">
-<i>"Time is the only true unit of measure, time is unity."</i>
-</p>
