@@ -1,7 +1,7 @@
 <h1 align="center">Hey, welcome to Sharanu's github portfolio</h1>
 
 <h3 align="center">
-Embedded Systems | Firmware | C | C++ | RUST | Python | IoT | BLE/Bluetooth
+Embedded Systems | Firmware | C | C++ | RUST | Python | IoT | Robotics
 </h3>
 
 <p align="center">
