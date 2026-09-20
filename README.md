@@ -1,11 +1,11 @@
-<h1 align="center">Hey, welcome to Sharanu's github portfolio</h1>
+<h1 align="center">Welcome to Sharanu's github portfolio</h1>
 
 <h3 align="center">
-Embedded Systems | Firmware | C | C++ | RUST | Python | IoT | Robotics
+Embedded Firmware Developer | C | C++ | Python
 </h3>
 
 <p align="center">
-Expertise in designing, developing, debugging and optimizing production-grade embedded firmware and connected devices.
+Expert in design, development & improvement of firmware as per business/software requirement specifications.
 </p>
 
 ---
