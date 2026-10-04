@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Sharanu's github portfolio</h1>
 
 <h3 align="center">
-Embedded Firmware Developer | C | C++ | Python
+C/C++ | Embedded systems
 </h3>
 
 <p align="center">
