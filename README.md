@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to Sharanu's github portfolio</h1>
-
 <h3 align="center">
 C/C++ | Embedded systems
 </h3>
