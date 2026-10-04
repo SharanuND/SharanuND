@@ -5,7 +5,7 @@ Embedded Firmware Developer | C | C++ | Python
 </h3>
 
 <p align="center">
-Expert in design, development & improvement of firmware as per business/software requirement specifications.
+C/C++ developer expertise in design, development of firmware as per business/software requirement specifications.
 </p>
 
 ---
