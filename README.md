@@ -1,5 +1,5 @@
 <h3 align="center">
-C/C++ | Embedded systems
+C/C++ | Embedded firmware developer
 </h3>
 
 <p align="center">
