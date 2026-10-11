@@ -1,5 +1,5 @@
 <h3 align="center">
-C/C++ | Embedded firmware developer
+C/C++ | Embedded firmware/software developer
 </h3>
 
 <p align="center">
@@ -12,18 +12,16 @@ C/C++ developer expertise in design, development of firmware as per business/sof
 
 * 💼 **Embedded Firmware Developer with 3+ years of industry experience**
 * 🧠 Specialized in **Firmware Development, Embedded Systems, and Low-Level Software**
-* ⚡ Primary programming language: **C**, with strong experience in **C++, Python, and Rust**
+* ⚡ Primary programming language: **C/C++**
 * 🔧 Experienced in **Bare-Metal, RTOS, device drivers, firmware architecture, and hardware-software integration**
-* 📡 Hands-on experience with **BLE, Bluetooth Classic, CAN, UART, SPI, I2C, USB, MQTT, and Wi-Fi**
-* ⚙️ Worked with **ESP32, STM32, NXP S32K3XX, and Infineon CYBT modules**
-* 🚗 Contributed to **Bluetooth Lock/Unlock functionality for the Royal Enfield Flying Flea C6**
-* 🧩 Experienced in developing firmware according to **software requirements and hardware specifications**
+* 📡 Hands-on experience with **BLE, BR/EDR(Classic Bluetooth), CAN, UART, SPI, I2C, USB, I2S, Ethernet, MQTT, and Wi-Fi**
+* ⚙️ Worked with **ESP32, STM32, NXP , and Infineon modules**
 * 🐛 Strong focus on **debugging, memory optimization, performance analysis, and reliability**
-* 🌱 Currently exploring **Automotive Software, Embedded Linux, Rust for Embedded Systems, and Advanced Bluetooth Architectures**
 * 🎯 Passionate about building **reliable, efficient, scalable, and production-ready firmware**
 
 ---
-
+**Portfolio:**
+https://sharanund.github.io/PortFolio/
 ## 🤝 Connect With Me
 
 📧 **Email:**
