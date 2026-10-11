@@ -3,7 +3,7 @@ C/C++ | Embedded firmware/software developer
 </h3>
 
 <p align="center">
-C/C++ developer expertise in design, development of firmware as per business/software requirement specifications.
+C/C++ developer expertise in design & development of firmware as per business/software requirement specifications.
 </p>
 
 ---
