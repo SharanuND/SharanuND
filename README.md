@@ -1,36 +1,61 @@
-# Hi there, I'm Sharanu 👋
+# Hi, I'm Sharanu 👋
 
-### 🚀 Flutter Developer | Dart | Cross-Platform Software Development
+### Flutter Developer | Dart | Cross-Platform Application Development
 
-I'm a Flutter developer in the making, passionate about building beautiful, scalable, and high-performance software using **Flutter and Dart**.
+I'm passionate about building beautiful, responsive, and functional applications using **Flutter and Dart**. I'm continuously improving my development skills by learning core concepts, building projects, and solving real-world problems.
 
-My goal is to develop software for multiple platforms using Flutter's powerful cross-platform capabilities.
+My goal is to develop software that delivers great user experiences across multiple platforms using a shared codebase wherever practical.
 
-### 💻 What I Want to Build
+## 🚀 What I can build with my skills
 
-- 📱 **Android Applications** — Modern mobile apps for Android devices.
-- 🍎 **iOS Applications** — Beautiful apps for iPhone and iPad.
-- 🌐 **Web Applications** — Responsive websites and web applications.
-- 🪟 **Windows Desktop Applications** — Software for Windows PCs.
-- 🍏 **macOS Desktop Applications** — Software for Mac computers.
-- 🐧 **Linux Desktop Applications** — Software for Linux systems.
+- 📱 **Android Applications**
+- 🍎 **iOS Applications**
+- 🌐 **Web Applications**
+- 🪟 **Windows Desktop Applications**
+- 🍏 **macOS Desktop Applications**
+- 🐧 **Linux Desktop Applications**
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
+### Languages & Frameworks
+- Dart
+- Flutter
+- Object-Oriented Programming (OOP)
+- Classes, inheritance, methods, and enums
+- Lists, maps, and control flow
 
-### 🎯 My Goal
+### Flutter Development
+- StatelessWidget and StatefulWidget
+- Widget tree and reusable UI components
+- Layouts and responsive UI
+- Themes and animations
+- State management using `setState` and Provider
+- Callbacks and lifting state up
 
-To become a skilled Flutter developer capable of designing, developing, testing, and deploying production-ready software across mobile, web, and desktop platforms.
+### Backend & Data
+- Firebase Cloud Firestore
+- User authentication and registration
+- REST API integration
+- JSON parsing and data handling
+- Asynchronous programming with Futures and Streams
+- Dynamic UI updates with `StreamBuilder`
+
+### Software Development
+- MVC architecture fundamentals
+- Clean, readable, and maintainable code
+- Git and GitHub
+- Debugging and application testing
 
 
-### 📫 Connect With Me
+## 🎯 My Development Goals
+
+- Build production-ready Flutter applications.
+- Strengthen state management and application architecture skills.
+- Integrate APIs, databases, and backend services.
+- Develop and deploy cross-platform software.
+- Write maintainable code and contribute to open-source projects.
+
+## 🤝 Let's Connect
 
 - 💻 GitHub: [SharanuND](https://github.com/SharanuND)
 - 💼 LinkedIn: [Sharanu Dibbadamani](https://www.linkedin.com/in/sharanu-dibbadamani/)
@@ -38,5 +63,5 @@ To become a skilled Flutter developer capable of designing, developing, testing,
 
 ---
 
-⭐ **One codebase. Multiple platforms. Endless possibilities.**
+**One codebase. Multiple platforms. Meaningful software.** 🚀
 
