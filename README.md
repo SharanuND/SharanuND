@@ -1,31 +1,42 @@
-<h3 align="center">
-C/C++ | Embedded firmware/software developer
-</h3>
+# Hi there, I'm Sharanu 👋
 
-<p align="center">
-C/C++ developer expertise in design & development of firmware as per business/software requirement specifications.
+### 🚀 Flutter Developer | Dart | Cross-Platform Software Development
+
+I'm a Flutter developer in the making, passionate about building beautiful, scalable, and high-performance software using **Flutter and Dart**.
+
+My goal is to develop software for multiple platforms using Flutter's powerful cross-platform capabilities.
+
+### 💻 What I Want to Build
+
+- 📱 **Android Applications** — Modern mobile apps for Android devices.
+- 🍎 **iOS Applications** — Beautiful apps for iPhone and iPad.
+- 🌐 **Web Applications** — Responsive websites and web applications.
+- 🪟 **Windows Desktop Applications** — Software for Windows PCs.
+- 🍏 **macOS Desktop Applications** — Software for Mac computers.
+- 🐧 **Linux Desktop Applications** — Software for Linux systems.
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
 
----
+### 🎯 My Goal
 
-## 🚀 About Me
+To become a skilled Flutter developer capable of designing, developing, testing, and deploying production-ready software across mobile, web, and desktop platforms.
 
-* 💼 **Embedded Firmware Developer with 3+ years of industry experience**
-* 🧠 Specialized in **Firmware Development, Embedded Systems, and Low-Level Software**
-* ⚡ Primary programming language: **C/C++**
-* 🔧 Experienced in **Bare-Metal, RTOS, device drivers, firmware architecture, and hardware-software integration**
-* 📡 Hands-on experience with **BLE, BR/EDR(Classic Bluetooth), CAN, UART, SPI, I2C, USB, I2S, Ethernet, MQTT, and Wi-Fi**
-* ⚙️ Worked with **ESP32, STM32, NXP , and Infineon modules**
-* 🐛 Strong focus on **debugging, memory optimization, performance analysis, and reliability**
-* 🎯 Passionate about building **reliable, efficient, scalable, and production-ready firmware**
+
+### 📫 Connect With Me
+
+- 💻 GitHub: [SharanuND](https://github.com/SharanuND)
+- 💼 LinkedIn: [Sharanu Dibbadamani](https://www.linkedin.com/in/sharanu-dibbadamani/)
+- 📧 Email: [work.sharanu@gmail.com](mailto:work.sharanu@gmail.com)
 
 ---
-**Portfolio:**
-https://sharanund.github.io/PortFolio/
-## 🤝 Connect With Me
 
-📧 **Email:**
-[work.sharanu@gmail.com](mailto:work.sharanu@gmail.com)
+⭐ **One codebase. Multiple platforms. Endless possibilities.**
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/sharanu-dibbadamani/
